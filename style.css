@@ -80,7 +80,7 @@
       cursor: pointer;
     }
 
-    /* Hide mobile extras by default */
+    /* Hide mobile extras by default*/
     .mobile-extras {
       display: none;
     }
@@ -884,4 +884,3 @@ background: radial-gradient(circle, rgba(255, 255, 255, 1) 39%, rgba(87, 199, 13
   margin-top: 40px;
   font-size: 16px;
 }
-
