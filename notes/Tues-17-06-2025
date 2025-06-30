@@ -1,0 +1,64 @@
+Html Basics 
+HTML Introduction
+•	HTML = HyperText Markup Language
+•	It creates structure of a webpage
+•	Not a programming language, but a markup language
+•	
+Basic HTML Page Structure
+•	<!DOCTYPE html> → Declares HTML5
+•	<head> → metadata, title, styles, etc
+•	<body> → actual visible content
+Headings and Paragraphs
+•	<h1> to <h6> for headings (largest to smallest)
+•	<p> for paragraph
+Links and Images
+•	href = link destination
+•	target="_blank" to open link in new tab
+•	alt = alternative text for images
+Lists
+     Ordered List:
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+</ol>
+    Unordered List:
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+Tables
+•	<table> for table
+•	<tr> = table row
+•	<th> = table heading
+•	<td> = table data
+Forms
+•	input, textarea, select, button used in forms
+•	name attributes send data to server
+Input Types
+<input type="text">
+<input type="email">
+<input type="password">
+<input type="checkbox">
+<input type="radio">
+<input type="submit">
+Semantic Elements (HTML5)
+•	<header>: top of page
+•	<nav>: for menus
+•	<section>: content section
+•	<article>: blog/article post
+•	<aside>: side content
+•	<footer>: bottom of page
+Comments
+<!—This is a comment-->
+Inline vs Block Elements
+<div>This is a block container</div>
+<span>This is inline</span>
+Div and Span
+•	<div>This is a block container</div>
+•	<span>This is inline</span>
+
+
+
+
+
+
